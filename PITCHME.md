@@ -9,11 +9,14 @@ _paginate: false
 
 ![bg](./assets/gradient.jpg)
 
-# <!--fit--> Marp CLI example
+# <!--fit--> How you can benefit from open science practices
 
-Hosting Marp slide deck on the web
+* Ali Khan
+* Associate Professor, Medical Biophysics
+* Scientist, Robarts Research Institute
+* Canada Research Chair (Tier 2) in Computational Neuroimaging
 
-https://github.com/yhatt/marp-cli-example
+https://github.com/akhanf/open-science-benefits
 
 <style scoped>a { color: #eee; }</style>
 
